@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.container {
+  padding-top: 21px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.header {
+  text-align: center;
+  font-size: 34px;
+  color: ;
+}
+.search-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-element {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  background-color: #f1f5f9;
+  border-radius: 6px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+  outline: none;
+}
+.search-logo {
+  height: 20px;
+  width: 20px;
+}
+.destination-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 48px;
+}
